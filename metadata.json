@@ -1,0 +1,5 @@
+{
+  "name": "Verbs Bingo",
+  "description": "An interactive bingo game to practice English verbs. Draw a word at random and see it marked on the board. Features a dynamic interface, animations, and sound effects for a fun learning experience.",
+  "requestFramePermissions": []
+}
